@@ -22,7 +22,7 @@ There are a couple of options when it comes to installing, but here are my favou
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/WebBot.git
+   git clone https://github.com/wolfdreamYT/WebBot
    cd WebBot
 
 2. **Download & Install**

@@ -26,10 +26,13 @@ There are a couple of options when it comes to installing, but here are my favou
    cd WebBot
 
 2. **Download & Install**
-   1. download the WebBot 1.0 or 2.0, 2.0 is prefered.
+   1. download the WebBot 1.0 or 2.0, 2.0 is prefered. Both are now Legacy as 3.0 is rolling in.
    2. install the required libraries (asyncio, aiohttp, hashlib, etc)
    3. open command prompt and navigate to your directory (cd path\to\WebBot\)
    4. open `seeds.txt` and add your URLs you want to extract info from
    5. run `python main.py` and watch the magic happen.
+  
+   6. If you wish to download WebBot 3.0, please be a PDSB member/student to gain limited beta access:
+     `https://drive.google.com/file/d/1RgyWjpunklYcklMzEweqX2nzfR82WlWH/view?usp=sharing`
   
      WARNING: This is built for Windows 11 x64, if your using a different OS please update the code to support the architecture of your PC.

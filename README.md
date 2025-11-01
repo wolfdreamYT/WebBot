@@ -26,12 +26,11 @@ There are a couple of options when it comes to installing, but here are my favou
    cd WebBot
 
 2. **Download & Install**
-   1. download the WebBot 2.0 or 3.0, 3.0 is prefered. 2.0 is now Legacy as 3.0 and 2.5 is rolling in.
-   2. install the required libraries (asyncio, aiohttp, hashlib, etc)
-   3. open command prompt and navigate to your directory (cd path\to\WebBot\)
-   4. run `python server.py` and open your browser and go to `http://[your ip]:5000` and your website will be there.
-   5. go to `Wiki` page for more info/details.
+   1. install the required libraries (asyncio, aiohttp, hashlib, etc)
+   2. open command prompt and navigate to your directory (cd path\to\WebBot\)
+   3. run `python server.py` and open your browser and go to `http://[your ip]:5000` and your website will be there.
+   4. go to `Wiki` page for more info/details.
   
-   6. If you wish to download WebBot 4.0, please be a part of Wolf Studios as it is currently in developement. 4.0 is not out yet but is official and will release eventually. You can use 3.0 for now which is the most best version we have, but there is more to come so hang tight!
+   5. If you wish to download WebBot 4.0, please be a part of Wolf Studios as it is currently in developement. 4.0 is not out yet but is official and will release eventually. You can use 3.0 for now which is the most best version we have, but there is more to come so hang tight!
   
      WARNING: This is built for Windows 11 x64, if your using a different OS please update the code to support the architecture of your computer.

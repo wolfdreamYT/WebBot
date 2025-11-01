@@ -9,10 +9,10 @@ WebBot is a powerfull tool i made that can scan any website and give me all the 
 - **Advanced Web Scraping**: Retrieve articles, posts, or other data from websites.
 - **Customizable User-Agent**: Rotate user-agents to mimic different browsers.
 - **Flexible Output**: Save scraped data in text files and structured formated in another with HTML.
-- **Progress Tracking**: Monitor scraping progress with a live progress bar.
+- **Progress Tracking**: Monitor scraping progress with a live terminal.
 - **Multi-Site Support**: Scrape multiple websites with a single configuration.
-- **Extensible**: Easily add new scraping rules or parsing logic.
 - **No Robots.txt**: Bypasses robots.txt to retrieve info no matter what.
+- **UI Website**: Website UI that is hosted through the server.py for non-tech users.
 
 ---
 
@@ -26,13 +26,12 @@ There are a couple of options when it comes to installing, but here are my favou
    cd WebBot
 
 2. **Download & Install**
-   1. download the WebBot 1.0 or 2.0, 2.0 is prefered. Both are now Legacy as 3.0 is rolling in.
+   1. download the WebBot 2.0 or 3.0, 3.0 is prefered. 2.0 is now Legacy as 3.0 and 2.5 is rolling in.
    2. install the required libraries (asyncio, aiohttp, hashlib, etc)
    3. open command prompt and navigate to your directory (cd path\to\WebBot\)
-   4. open `seeds.txt` and add your URLs you want to extract info from
-   5. run `python main.py` and watch the magic happen.
+   4. run `python server.py` and open your browser and go to `http://[your ip]:5000` and your website will be there.
+   5. go to `Wiki` page for more info/details.
   
-   6. If you wish to download WebBot 3.0, please be a PDSB member/student to gain limited beta access:
-     `https://drive.google.com/file/d/1RgyWjpunklYcklMzEweqX2nzfR82WlWH/view?usp=sharing`
+   6. If you wish to download WebBot 4.0, please be a part of Wolf Studios as it is currently in developement. 4.0 is not out yet but is official and will release eventually. You can use 3.0 for now which is the most best version we have, but there is more to come so hang tight!
   
-     WARNING: This is built for Windows 11 x64, if your using a different OS please update the code to support the architecture of your PC.
+     WARNING: This is built for Windows 11 x64, if your using a different OS please update the code to support the architecture of your computer.

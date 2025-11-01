@@ -41,7 +41,7 @@ AUTH_USER = "your-username-here"
 AUTH_PASS = "your-secret-password-here"
 
 RUN_LOCK = Lock()
-PROCESS_TIMEOUT_SEC = 60 * 30  # 30 minutes maximum session
+PROCESS_TIMEOUT_SEC = 60 * 10  # 30 minutes maximum session
 MAX_ALLOWED_PAGES = 5
 # ------------------------------------------
 
@@ -300,3 +300,4 @@ def open_scanning_terminal(log_file="scanning_log.txt"):
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
 # ----------------------------------------
+

@@ -1,0 +1,14 @@
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/ChatGPT
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Wikipedia:Contact_us
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Help:Introduction
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Wikipedia:About
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Special:RecentChanges
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Special:Random
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Help:Contents
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Portal:Current_events
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Wikipedia:Contents
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Main_Page
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Special:SpecialPages
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Main_Page
+WEBBOT_SCANNING: https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard

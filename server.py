@@ -24,8 +24,8 @@ OUTPUT_FOLDER = "websites"
 ZIP_FOLDER = "outputs"
 os.makedirs(ZIP_FOLDER, exist_ok=True)
 
-AUTH_USER = "webbot-USER"
-AUTH_PASS = "release.2025!"
+AUTH_USER = "your-username-goes-here"
+AUTH_PASS = "your-password-goes-here"
 
 RUN_LOCK = Lock()
 PROCESS_TIMEOUT_SEC = 60 * 30  # 30 minutes maximum session
@@ -256,3 +256,4 @@ def download(zipname):
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
 # ----------------------------------------
+

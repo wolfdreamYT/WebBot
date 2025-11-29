@@ -1,11 +1,4 @@
-asyncio
 aiohttp
-hashlib
-BeautifulSoup
-urllib
-bs4
+beautifulsoup4
 tqdm
-time
 flask
-subprocess
-shutil
